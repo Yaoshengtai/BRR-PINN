@@ -1,5 +1,5 @@
 
-#A boundary condition class
+# A boundary condition class
 
 class BoundaryCondition:
 
